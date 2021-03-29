@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+header nav ul li {
+    display: inline;
+    margin: 0 5px;
+}
+.profileimage{
+    max-width: 500px;
+    max-height: auto;
+}
+.contactInformation {
+    text-decoration: underline;
+}
